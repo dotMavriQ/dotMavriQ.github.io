@@ -1,4 +1,4 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://blog.dotmavriq.life/"
 DefaultContentLanguage  = "en"
 title                   = "The dotBlog"
 theme                   = "vimperfect"
