@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on The dotBlog</title>
+    <link>https://example.com/categories/blog/</link>
+    <description>Recent content in Blog on The dotBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sop Hämting</title>
+      <link>https://example.com/blog/2020-03-26-sop-h%C3%A4mting/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/2020-03-26-sop-h%C3%A4mting/</guid>
+      <description>Am Porter Bridges I was asked to remove cartons that were clogging up the entrance at work this morning.
+Looking at all of it I realized it would be somewhat of a logistical hardship to do in one go. Not that any of it was even remotely heavy but rather that the larger cartons contained so much junk that I would have to carry all of it in the boxes that contained the most stuff&amp;hellip; and it was heavy-handed work as it turns out.</description>
+    </item>
+    
+    <item>
+      <title>Waffles, Viruses, Porkchops and Decline</title>
+      <link>https://example.com/blog/2020-03-25-waffles-viruses-porkchops-decline/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/2020-03-25-waffles-viruses-porkchops-decline/</guid>
+      <description>I had a bit of a stressful morning in all honesty. Maybe I didn&amp;rsquo;t catch enough sleep, not sure what it was, but I barely got to work on time.
+Things did settle quickly enough though, and that&amp;rsquo;s always good, there&amp;rsquo;s a special kind of peace that comes with sitting down and focusing on work for a good couple of hours. I mean, not every day can be like that of course, but today was a day like that.</description>
+    </item>
+    
+  </channel>
+</rss>
